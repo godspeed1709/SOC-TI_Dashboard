@@ -13,8 +13,8 @@ This document contains IP-based threat intelligence indicators for security oper
 | DDoS-2024-Q4 | 203.0.113.50 | /28 | DDoS Infrastructure | Medium | 2024-10-10 | 2024-12-20 | Monitored | Part of DDoS botnet infrastructure | DDoS, Botnet | Partner Share |
 | Phishing-Finance | 198.51.100.75 | /32 | Phishing | High | 2024-12-01 | 2024-12-28 | Active | Phishing site impersonating financial institutions | Phishing, Credential Theft | Internal Detection |
 | Ransomware-Group-X | 203.0.113.120 | /30 | Ransomware C2 | Critical | 2024-09-15 | 2024-12-15 | Blocked | Ransomware command and control infrastructure | Ransomware, C2, Encryption | Vendor Feed |
-| Cryptominer-Pool | 192.0.2.100 | /32 | Cryptomining | Low | 2024-08-20 | 2024-12-10 | Monitored | Unauthorized cryptomining pool connection | Cryptomining, Resource Abuse | Network Monitor |
-| Data-Exfil-2024 | 198.18.0.50 | /29 | Data Exfiltration | Critical | 2024-11-20 | 2024-12-29 | Active | Suspected data exfiltration destination | Exfiltration, APT | SIEM Alert |
+| Cryptominer-Pool | 198.51.100.100 | /32 | Cryptomining | Low | 2024-08-20 | 2024-12-10 | Monitored | Unauthorized cryptomining pool connection | Cryptomining, Resource Abuse | Network Monitor |
+| Data-Exfil-2024 | 203.0.113.150 | /29 | Data Exfiltration | Critical | 2024-11-20 | 2024-12-29 | Active | Suspected data exfiltration destination | Exfiltration, APT | SIEM Alert |
 | Spam-Botnet-XYZ | 203.0.113.200 | /26 | Spam/Email | Medium | 2024-07-01 | 2024-11-30 | Inactive | Previously active spam botnet nodes | Spam, Botnet, Email | Blacklist |
 
 ## Field Definitions
