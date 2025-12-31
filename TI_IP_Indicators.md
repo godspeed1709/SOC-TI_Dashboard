@@ -47,7 +47,7 @@ This document contains IP-based threat intelligence indicators for security oper
 
 ## Update Information
 
-- **Last Updated**: 2024-12-31
+- **Last Updated**: 2024-12-31 *(Update this date when modifying indicators)*
 - **Total Indicators**: 8
 - **Active Threats**: 4
 - **Review Frequency**: Daily
